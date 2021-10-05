@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTable", "AzureTable\AzureTable.csproj", "{B79DF5B8-0AFD-4A3F-B70D-7BBF608BF6A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79DF5B8-0AFD-4A3F-B70D-7BBF608BF6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79DF5B8-0AFD-4A3F-B70D-7BBF608BF6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79DF5B8-0AFD-4A3F-B70D-7BBF608BF6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79DF5B8-0AFD-4A3F-B70D-7BBF608BF6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C183E66-56D2-4855-85F6-F9EE41FD0955}
+	EndGlobalSection
+EndGlobal
