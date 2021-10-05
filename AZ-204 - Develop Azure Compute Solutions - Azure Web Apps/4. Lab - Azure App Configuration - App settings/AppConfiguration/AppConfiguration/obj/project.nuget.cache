@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zglu3ZieSE8BhmwIxVU+nRJenR0tvLZkxtpJyYvP53Asx+B8liVtYHEYnuZMMx9nIzb3JG/2774kv4hdwpaF7w==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Udemy_2020\\AZ-204-new\\Develop Azure Compute Solutions\\Azure Web Apps\\Azure App Configuration\\AppConfiguration\\AppConfiguration\\AppConfiguration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Allan\\.nuget\\packages\\azure.core\\1.0.1\\azure.core.1.0.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\azure.data.appconfiguration\\1.0.0\\azure.data.appconfiguration.1.0.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\azure.security.keyvault.secrets\\4.0.1\\azure.security.keyvault.secrets.4.0.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\microsoft.azure.appconfiguration.aspnetcore\\4.2.1\\microsoft.azure.appconfiguration.aspnetcore.4.2.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\microsoft.extensions.configuration.azureappconfiguration\\4.2.1\\microsoft.extensions.configuration.azureappconfiguration.4.2.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

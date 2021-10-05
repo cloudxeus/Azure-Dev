@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: "https://courseapp1000.azurewebsites.net/api/Course",
+                type: "Get",
+                success: function (result) {
+                    console.log(result);
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            })
+        })
+    </script>
+    <title>Calling the API</title>
+</head>
+<body>
+
+</body>
+</html>

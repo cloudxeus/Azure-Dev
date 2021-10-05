@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "7uiH91TlirpbG8HJ7zbJosczi5djf1jIOUF4EDYvLPY5p0QUDmHG4QZej1lFZXSRc1ZYbJNkIricK0gaVoAm3w==",
+  "success": true,
+  "projectFilePath": "C:\\Udemy\\AZ-204\\new\\Azure App Configuration - Feature flags\\AppFeatureFlag\\AppFeatureFlag\\AppFeatureFlag.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashwell\\.nuget\\packages\\azure.core\\1.0.1\\azure.core.1.0.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\azure.data.appconfiguration\\1.0.0\\azure.data.appconfiguration.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\azure.security.keyvault.secrets\\4.0.1\\azure.security.keyvault.secrets.4.0.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.azure.appconfiguration.aspnetcore\\4.2.1\\microsoft.azure.appconfiguration.aspnetcore.4.2.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.extensions.configuration.azureappconfiguration\\4.2.1\\microsoft.extensions.configuration.azureappconfiguration.4.2.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.10\\microsoft.extensions.configuration.binder.2.1.10.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.extensions.logging\\2.1.1\\microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.featuremanagement\\2.3.0\\microsoft.featuremanagement.2.3.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.featuremanagement.aspnetcore\\2.3.0\\microsoft.featuremanagement.aspnetcore.2.3.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

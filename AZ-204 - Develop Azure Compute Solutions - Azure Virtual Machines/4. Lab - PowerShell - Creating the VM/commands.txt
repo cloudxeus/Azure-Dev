@@ -1,0 +1,3 @@
+New-AzResourceGroup -Name new-vm-grp -Location EastUS
+
+New-AzVm -ResourceGroupName "new-vm-grp" -Name "demovm1" -Location "East US" -VirtualNetworkName "demo-network" -SubnetName "subnetA" -SecurityGroupName "myNSG" -PublicIpAddressName "new-ip" -OpenPorts 80,3389

@@ -1,0 +1,11 @@
+sudo apt-get install nginx
+
+sudo service nginx stop
+
+// Go to the sites-available folder
+
+sudo chmod 777 default
+
+sudo service nginx start
+
+

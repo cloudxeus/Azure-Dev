@@ -1,0 +1,7 @@
+C:\tmp\corsapi\corsapi\obj\Release\netcoreapp3.1\PubTmp\Out\corsapi.exe
+C:\tmp\corsapi\corsapi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\tmp\corsapi\corsapi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\tmp\corsapi\corsapi\obj\Release\netcoreapp3.1\PubTmp\Out\corsapi.dll
+C:\tmp\corsapi\corsapi\obj\Release\netcoreapp3.1\PubTmp\Out\corsapi.deps.json
+C:\tmp\corsapi\corsapi\obj\Release\netcoreapp3.1\PubTmp\Out\corsapi.runtimeconfig.json
+C:\tmp\corsapi\corsapi\obj\Release\netcoreapp3.1\PubTmp\Out\corsapi.pdb

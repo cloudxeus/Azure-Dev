@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Sqlapp.Models.Course>
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<div class="text-center">
+    <h1 class="display-4">This is a list of services of courses</h1>
+
+</div>
+
+<div>
+    <table class="table" table-dark">
+        <thead>
+            <tr>
+                <th scope="col">Course ID</th>
+                <th scope="col">Course Name</th>
+                <th scope="col">Rating</th>                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var course in Model)
+            {
+        <tr>
+            <th scope="row">@course.CourseID</th>
+            <td>@course.CourseName</td>
+            <td>@course.Rating</td>
+        </tr>
+            }            
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,36 @@
+C:\tmp\Blob-Create container\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.exe
+C:\tmp\Blob-Create container\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.deps.json
+C:\tmp\Blob-Create container\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.runtimeconfig.json
+C:\tmp\Blob-Create container\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.runtimeconfig.dev.json
+C:\tmp\Blob-Create container\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.dll
+C:\tmp\Blob-Create container\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.pdb
+C:\tmp\Blob-Create container\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\Blob-Create container\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\tmp\Blob-Create container\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp\Blob-Create container\Blob-Create container\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\Blob-Create container\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.csprojAssemblyReference.cache
+C:\tmp\Blob-Create container\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.AssemblyInfoInputs.cache
+C:\tmp\Blob-Create container\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.AssemblyInfo.cs
+C:\tmp\Blob-Create container\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.csproj.CoreCompileInputs.cache
+C:\tmp\Blob-Create container\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.csproj.CopyComplete
+C:\tmp\Blob-Create container\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.dll
+C:\tmp\Blob-Create container\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.pdb
+C:\tmp\Blob-Create container\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.genruntimeconfig.cache
+C:\tmp\Blob-Create container - lease\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.exe
+C:\tmp\Blob-Create container - lease\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.deps.json
+C:\tmp\Blob-Create container - lease\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.runtimeconfig.json
+C:\tmp\Blob-Create container - lease\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.runtimeconfig.dev.json
+C:\tmp\Blob-Create container - lease\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.dll
+C:\tmp\Blob-Create container - lease\Blob-Create container\bin\Debug\netcoreapp3.1\Blob-Create container.pdb
+C:\tmp\Blob-Create container - lease\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\Blob-Create container - lease\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\tmp\Blob-Create container - lease\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp\Blob-Create container - lease\Blob-Create container\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\Blob-Create container - lease\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.csprojAssemblyReference.cache
+C:\tmp\Blob-Create container - lease\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.AssemblyInfoInputs.cache
+C:\tmp\Blob-Create container - lease\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.AssemblyInfo.cs
+C:\tmp\Blob-Create container - lease\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.csproj.CoreCompileInputs.cache
+C:\tmp\Blob-Create container - lease\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.csproj.CopyComplete
+C:\tmp\Blob-Create container - lease\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.dll
+C:\tmp\Blob-Create container - lease\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.pdb
+C:\tmp\Blob-Create container - lease\Blob-Create container\obj\Debug\netcoreapp3.1\Blob-Create container.genruntimeconfig.cache

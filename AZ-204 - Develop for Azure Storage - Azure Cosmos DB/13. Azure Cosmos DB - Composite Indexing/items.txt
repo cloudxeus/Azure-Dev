@@ -1,0 +1,40 @@
+{
+    "id": "1",
+    "courseid": "C00010",
+    "coursename": "AZ-204",
+    "rating": 4.5
+}
+
+{
+    "id": "2",
+    "courseid": "C00010",
+    "coursename": "AZ-204",
+    "rating": 4.7
+}
+
+
+{
+    "id": "3",
+    "courseid": "C00011",
+    "coursename": "AZ-303",
+    "rating": 4.6
+}
+
+
+{
+    "id": "4",
+    "courseid": "C00012",
+    "coursename": "AZ-304",
+    "rating": 4.5
+}
+
+
+{
+    "id": "5",
+    "courseid": "C00012",
+    "coursename": "AZ-304",
+    "rating": 4.6
+}
+
+select c.id,c.courseid from c order by c.coursename,c.rating
+

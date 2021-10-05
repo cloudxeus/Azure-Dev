@@ -1,0 +1,26 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {  },
+    "resources": [
+        {
+            "name": "[concat(copyIndex(),'storage',uniqueString(resourceGroup().id))]",
+            "type": "Microsoft.Storage/storageAccounts",
+            "location": "[resourceGroup().location]",
+            "apiVersion": "2019-06-01",
+            "kind": "StorageV2", 
+	    "sku": {
+              "name": "Standard_LRS"
+             },
+            "dependsOn": [],
+            "tags": { },
+            "properties": {},
+            "copy":{
+				"name":"storagecopy",
+				"count":3,
+				"mode":"Serial",
+				"batchSize":1
+			}
+        }
+    ]
+}
