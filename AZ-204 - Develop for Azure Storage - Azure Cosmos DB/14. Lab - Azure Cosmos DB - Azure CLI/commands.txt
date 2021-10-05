@@ -1,0 +1,25 @@
+az cosmosdb create -n newaccount5500 -g new-grp --default-consistency-level Session --locations regionName='West US 2' failoverPriority=0 isZoneRedundant=False
+
+This command will do the following
+
+a) Create an account with the name of newaccount6000
+
+b) The default API is SQL API. Hence that is the API that will be chosen for the account
+
+c) Here we have only one region which is the West US 2 region. This will be used as read and write region.
+
+d) Here we are mentioning a consistency level of Session
+
+You can use the following command to create an Azure Cosmos DB account with multiple regions
+
+az cosmosdb create -n newaccount5200 -g new-grp --default-consistency-level Session --locations regionName='West US 2' failoverPriority=0 isZoneRedundant=False --locations regionName='East US 2' failoverPriority=1 isZoneRedundant=False
+
+a) Here we are mentioning the primary region as West US 2. This is because we have mentioned a failoverPriority of 0 for this region.
+
+If you want to create an Azure Cosmos DB account with the Table API, you can use the following command
+
+az cosmosdb create -n newaccount6100 -g new-grp --default-consistency-level Session --locations regionName='West US 2' failoverPriority=0 isZoneRedundant=False --capabilities EnableTable
+
+Here we mention the --capabilities option
+
+

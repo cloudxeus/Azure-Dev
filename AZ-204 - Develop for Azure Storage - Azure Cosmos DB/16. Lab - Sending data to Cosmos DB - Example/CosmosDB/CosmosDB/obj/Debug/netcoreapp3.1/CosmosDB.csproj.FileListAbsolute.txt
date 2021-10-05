@@ -1,0 +1,92 @@
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.exe
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.deps.json
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.runtimeconfig.json
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.runtimeconfig.dev.json
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.pdb
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.AssemblyInfoInputs.cache
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.AssemblyInfo.cs
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.csproj.CoreCompileInputs.cache
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.csproj.CopyComplete
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.dll
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.pdb
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.genruntimeconfig.cache
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.exe
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\data\QueryResult.json
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.deps.json
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.runtimeconfig.json
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.runtimeconfig.dev.json
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.pdb
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.AssemblyInfoInputs.cache
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.AssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.pdb
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Lab - Azure Cosmos DB - Regions\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.genruntimeconfig.cache
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.exe
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\data\QueryResult.json
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.deps.json
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.runtimeconfig.json
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.runtimeconfig.dev.json
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\CosmosDB.pdb
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.csprojAssemblyReference.cache
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.AssemblyInfoInputs.cache
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.AssemblyInfo.cs
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.csproj.CoreCompileInputs.cache
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.csproj.CopyComplete
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.dll
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.pdb
+C:\Udemy\AZ-204\new\Azure Cosmos DB\Lab - Azure Cosmos DB - Continuously adding items\CosmosDB\CosmosDB\obj\Debug\netcoreapp3.1\CosmosDB.genruntimeconfig.cache
