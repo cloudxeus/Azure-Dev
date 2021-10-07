@@ -1,0 +1,54 @@
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.exe
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.deps.json
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.pdb
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.pdb
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.genruntimeconfig.cache
+C:\tmp\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.exe
+C:\tmp\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.deps.json
+C:\tmp\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\tmp\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\tmp\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.dll
+C:\tmp\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.pdb
+C:\tmp\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\tmp\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\tmp\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\tmp\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\tmp\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\tmp\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\tmp\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\tmp\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.dll
+C:\tmp\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.pdb
+C:\tmp\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.genruntimeconfig.cache
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.exe
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.deps.json
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.dll
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.pdb
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.dll
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.pdb
+C:\Udemy\AZ-204\Docker\28. Azure Container Groups - Connecting to file shares\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.genruntimeconfig.cache

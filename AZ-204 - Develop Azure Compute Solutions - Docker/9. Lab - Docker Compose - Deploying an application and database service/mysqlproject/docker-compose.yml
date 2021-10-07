@@ -1,0 +1,38 @@
+version: '3.6'
+
+services: 
+  db:
+        image: mysql   
+        ports:
+          - "3306:3306"     
+        networks:
+          - app-network
+        restart: always
+        environment: 
+            MYSQL_ROOT_PASSWORD: Azure@123
+            MYSQL_DATABASE: appdb
+            MYSQL_USER: user
+            MYSQL_PASSWORD: Azure
+    
+        volumes:
+           - ./init:/docker-entrypoint-initdb.d
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    
+    depends_on: 
+      - db
+    ports:
+      - "5000:80"
+    networks:
+      - app-network 
+    restart: always
+    
+    environment: 
+      - DBHOST=db
+      - DBPORT=3306      
+      - ASPNETCORE_ENVIRONMENT=Development
+networks:
+  app-network:
+    driver: bridge

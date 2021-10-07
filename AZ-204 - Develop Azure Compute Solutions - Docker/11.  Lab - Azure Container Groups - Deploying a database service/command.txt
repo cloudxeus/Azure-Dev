@@ -1,0 +1,1 @@
+az container create --resource-group new-grp --file containersdb.yml

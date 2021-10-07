@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Bas82mcemFltTyvYea9vPcARAT2aZrpuscFfCR9qjG7/Dqv1lJuCZokOJ25Zjf/EXOzD4OPbEsxvEn8n2ba4g==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Udemy_2020\\AZ-204\\Azure Queues\\Lab - Azure Storage Queue - .Net - Receiving messages\\AzureStorageQueue\\AzureStorageQueue\\AzureStorageQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Allan\\.nuget\\packages\\azure.core\\1.8.1\\azure.core.1.8.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\azure.storage.common\\12.7.1\\azure.storage.common.12.7.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\azure.storage.queues\\12.6.1\\azure.storage.queues.12.6.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.memory.data\\1.0.1\\system.memory.data.1.0.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

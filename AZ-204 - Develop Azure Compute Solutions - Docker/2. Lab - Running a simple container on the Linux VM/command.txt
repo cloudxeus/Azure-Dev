@@ -1,0 +1,10 @@
+docker run --name mynginx -p 80:80 -d nginx
+
+1) Here mynginx is the name we are giving to the container
+
+2) The -d option specified to run the container in detached mode. This means the container will continue to run until it is stopped.
+
+3) The -p command tells to map the port number of the container to the docker host
+
+This command will return the long form of the container ID that is set by Docker.
+

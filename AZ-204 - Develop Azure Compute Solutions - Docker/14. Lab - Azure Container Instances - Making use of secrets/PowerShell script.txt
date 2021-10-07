@@ -1,0 +1,7 @@
+$value= "DefaultEndpointsProtocol=https;AccountName=appstore445577;AccountKey=5jk/QJO99okHBa0M/uZCjX0JNMTrbl2HG9kFfmAFp1ce15wSife+o0iXROEkSu9C17AqnawUchFKAq9a8nqyeg==;EndpointSuffix=core.windows.net"
+
+$Bytes = [System.Text.Encoding]::UTF8.GetBytes($value)
+
+$Base64 = [Convert]::ToBase64String($Bytes)
+
+Write-Host $Base64

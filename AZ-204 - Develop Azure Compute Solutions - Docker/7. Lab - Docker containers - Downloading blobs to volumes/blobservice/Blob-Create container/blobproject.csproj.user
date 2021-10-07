@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ActiveDebugProfile>Docker</ActiveDebugProfile>
+    <_LastSelectedProfileId>C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\Properties\PublishProfiles\registry.hub.docker.com_shakinstev.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+</Project>

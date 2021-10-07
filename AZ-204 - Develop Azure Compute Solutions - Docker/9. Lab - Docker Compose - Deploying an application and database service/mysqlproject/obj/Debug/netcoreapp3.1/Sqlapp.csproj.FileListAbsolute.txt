@@ -1,0 +1,79 @@
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csprojAssemblyReference.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfoInputs.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfo.cs
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.CoreCompileInputs.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cs
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\staticwebassets\Sqlapp.StaticWebAssets.Manifest.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\staticwebassets\Sqlapp.StaticWebAssets.xml
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sqlapp.styles.css
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.TagHelpers.input.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.TagHelpers.output.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorCoreGenerate.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorTargetAssemblyInfo.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorTargetAssemblyInfo.cs
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.dll
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.pdb
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.exe
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.deps.json
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.runtimeconfig.json
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.runtimeconfig.dev.json
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.pdb
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.Views.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.Views.pdb
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.Views.pdb
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.CopyComplete
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.genruntimeconfig.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.exe
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.deps.json
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.runtimeconfig.json
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.runtimeconfig.dev.json
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.pdb
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.Views.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.Views.pdb
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfoInputs.cache
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cache
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\staticwebassets\Sqlapp.StaticWebAssets.Manifest.cache
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\staticwebassets\Sqlapp.StaticWebAssets.xml
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sqlapp.styles.css
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.TagHelpers.input.cache
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.TagHelpers.output.cache
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorCoreGenerate.cache
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorTargetAssemblyInfo.cache
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorTargetAssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.Views.pdb
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.pdb
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.genruntimeconfig.cache
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Udemy_2020\AZ-204\Docker\20. Running  a database container\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

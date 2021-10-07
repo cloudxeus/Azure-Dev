@@ -1,0 +1,9 @@
+az aks get-credentials --resource-group new-grp --name appcluster
+
+kubectl get nodes
+
+kubectl get pods
+
+kubectl get deployments
+
+kubectl get service

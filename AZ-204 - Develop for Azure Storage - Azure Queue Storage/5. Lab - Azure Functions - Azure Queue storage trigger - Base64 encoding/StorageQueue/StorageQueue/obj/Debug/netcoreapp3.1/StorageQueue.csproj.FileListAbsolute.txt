@@ -1,0 +1,38 @@
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.exe
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.deps.json
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.runtimeconfig.json
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.runtimeconfig.dev.json
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.pdb
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.csprojAssemblyReference.cache
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.AssemblyInfoInputs.cache
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.AssemblyInfo.cs
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.csproj.CoreCompileInputs.cache
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.csproj.CopyComplete
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.dll
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.pdb
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.genruntimeconfig.cache
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.exe
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.deps.json
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.runtimeconfig.json
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.runtimeconfig.dev.json
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\StorageQueue.pdb
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.AssemblyInfoInputs.cache
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.AssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.pdb
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Queues\Lab - Azure Functions - Base64 encoding\StorageQueue\StorageQueue\obj\Debug\netcoreapp3.1\StorageQueue.genruntimeconfig.cache

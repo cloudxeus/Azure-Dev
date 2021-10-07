@@ -1,0 +1,12 @@
+docker run --name=mysql-instance -p 3306:3306 --restart on-failure -d -e MYSQL_ROOT_PASSWORD=Azure123 mysql
+
+// To list all containers
+docker ps -a
+
+// Remove a container
+docker container rm e0
+
+// To see the logs
+docker logs mysql-instance
+
+docker exec -it mysql-instance mysql -uroot -p

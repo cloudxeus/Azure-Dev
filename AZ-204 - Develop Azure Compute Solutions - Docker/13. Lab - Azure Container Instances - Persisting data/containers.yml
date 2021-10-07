@@ -1,0 +1,28 @@
+apiVersion: 2019-12-01
+location: northeurope
+name: AppGroup
+properties:
+  containers: 
+  - name: blob
+    properties:
+      image: appregistry1000112.azurecr.io/blobproject:latest
+      resources:
+        requests:
+          cpu: 1
+          memoryInGb: 1.5
+      volumeMounts:
+      - mountPath: /app/data
+        name: filesharevolume    
+  osType: Linux
+  restartPolicy: Never
+  volumes:
+  - name: filesharevolume
+    azureFile:
+      sharename: containershare
+      storageAccountName: newstore100033323
+      storageAccountKey: Ar4/2iY8L0rEMeQaijINnfaMJr7vqjfbPgmJayw6Pu5l9ZI+GrFDm1uIWOqXk5RQLrTiXfBwWY6hAbPEIQqy1g==
+  imageRegistryCredentials:
+    - server: appregistry1000112.azurecr.io
+      username: appregistry1000112
+      password: sGnMgpTml8QOPOpqqpvA4F/AdXmWl0GJ
+type: Microsoft.ContainerInstance/containerGroups

@@ -1,0 +1,25 @@
+let starttimestamp=ago(1d);
+ContainerLog
+| where TimeGenerated >starttimestamp
+
+
+let ContainerIDs=KubePodInventory | where ClusterName =="appcluster" | distinct ContainerID;
+ContainerIDs
+
+let starttimestamp=ago(1d);
+ContainerLog
+| where TimeGenerated >starttimestamp
+| where ContainerID in (ContainerIDs) 
+
+
+let ContainerIDs=KubePodInventory | where ClusterName =="appcluster" | distinct ContainerID;
+let starttimestamp=ago(1d);
+ContainerLog
+| where TimeGenerated >starttimestamp
+| where ContainerID in (ContainerIDs) 
+| summarize count() by Computer
+
+
+
+
+

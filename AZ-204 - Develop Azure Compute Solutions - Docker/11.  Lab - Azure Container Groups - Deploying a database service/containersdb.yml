@@ -1,0 +1,20 @@
+apiVersion: 2019-12-01
+location: northeurope
+name: AppGroup
+properties:
+  containers: 
+  - name: db
+    properties:
+      image: appregistry100012.azurecr.io/customsql:latest
+      resources:
+        requests:
+          cpu: 1
+          memoryInGb: 1.5
+      ports:
+      - port: 3306   
+  osType: Linux
+  imageRegistryCredentials:
+    - server: appregistry100012.azurecr.io
+      username: appregistry100012
+      password: oYS=UdwYHQEGuRWCzj/oI9=q04BEL04s
+type: Microsoft.ContainerInstance/containerGroups

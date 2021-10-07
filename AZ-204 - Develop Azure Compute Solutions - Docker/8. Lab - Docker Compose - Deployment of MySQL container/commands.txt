@@ -1,0 +1,7 @@
+docker-compose up
+
+docker exec -it mysqlproject_db_1 bash
+
+mysql -u root -p
+
+docker exec -it mysqlproject_web bash

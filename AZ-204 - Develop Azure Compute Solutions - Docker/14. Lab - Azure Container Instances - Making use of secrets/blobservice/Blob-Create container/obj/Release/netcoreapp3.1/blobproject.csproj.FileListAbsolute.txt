@@ -1,0 +1,54 @@
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.exe
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.deps.json
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.pdb
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.dll
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.pdb
+C:\Work\Udemy_2020\AZ-204\Docker\22. Blob App - Volumes\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.genruntimeconfig.cache
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.exe
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.deps.json
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.dll
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.pdb
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.dll
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.pdb
+C:\tmp\Containergroups - volume\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.genruntimeconfig.cache
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.exe
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.deps.json
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.dll
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\blobproject.pdb
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.dll
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.pdb
+C:\tmp\Containergroups - secrets\blobservice\Blob-Create container\obj\Release\netcoreapp3.1\blobproject.genruntimeconfig.cache
