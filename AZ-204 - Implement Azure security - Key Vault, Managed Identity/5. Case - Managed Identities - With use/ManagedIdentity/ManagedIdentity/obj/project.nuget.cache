@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "ennjxw3nrA+PTAMQEa6cOR2AUh5cac5NhSIb1FelD0pL553T7FF+Dj1TcYpwvJIRsQQD1ZEW7tUfn1NR/8fCFA==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Udemy_2020\\AZ-204\\Implement Azure Security\\Case - Managed Identities - With use\\ManagedIdentity\\ManagedIdentity\\ManagedIdentity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Allan\\.nuget\\packages\\azure.core\\1.8.1\\azure.core.1.8.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\azure.storage.blobs\\12.8.1\\azure.storage.blobs.12.8.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\azure.storage.common\\12.7.1\\azure.storage.common.12.7.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\microsoft.identity.client\\4.22.0\\microsoft.identity.client.4.22.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.16.5\\microsoft.identity.client.extensions.msal.2.16.5.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,612 @@
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.exe
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.deps.json
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.runtimeconfig.json
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.runtimeconfig.dev.json
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.pdb
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.Views.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.Views.pdb
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.UI.Views.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.UI.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.csprojAssemblyReference.cache
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.AssemblyInfoInputs.cache
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.AssemblyInfo.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.csproj.CoreCompileInputs.cache
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.MvcApplicationPartsAssemblyInfo.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorAssemblyInfo.cache
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorAssemblyInfo.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\staticwebassets\OAuth-2.StaticWebAssets.Manifest.cache
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\staticwebassets\OAuth-2.StaticWebAssets.xml
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\scopedcss\bundle\OAuth-2.styles.css
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.TagHelpers.input.cache
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.TagHelpers.output.cache
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorCoreGenerate.cache
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorTargetAssemblyInfo.cache
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorTargetAssemblyInfo.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.Views.pdb
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.csproj.CopyComplete
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.dll
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.pdb
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.genruntimeconfig.cache
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.StaticWebAssets.xml
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\tmp\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.StaticWebAssets.xml
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.exe
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.deps.json
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.runtimeconfig.json
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.runtimeconfig.dev.json
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.pdb
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.Views.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.Views.pdb
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.UI.Views.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.UI.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.csprojAssemblyReference.cache
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.AssemblyInfoInputs.cache
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.AssemblyInfo.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.csproj.CoreCompileInputs.cache
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.MvcApplicationPartsAssemblyInfo.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorAssemblyInfo.cache
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorAssemblyInfo.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\staticwebassets\OAuth-2.StaticWebAssets.Manifest.cache
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\staticwebassets\OAuth-2.StaticWebAssets.xml
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\scopedcss\bundle\OAuth-2.styles.css
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.TagHelpers.input.cache
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.TagHelpers.output.cache
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorCoreGenerate.cache
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorTargetAssemblyInfo.cache
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorTargetAssemblyInfo.cs
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.Views.pdb
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.csproj.CopyComplete
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.dll
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.pdb
+C:\tmp1\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.genruntimeconfig.cache
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+C:\tmp1\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.MicrosoftGraph.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.StaticWebAssets.xml
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.exe
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.deps.json
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.runtimeconfig.json
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.runtimeconfig.dev.json
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.pdb
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.Views.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\OAuth-2.Views.pdb
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.MicrosoftGraph.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.UI.Views.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.UI.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.csprojAssemblyReference.cache
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.AssemblyInfoInputs.cache
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.AssemblyInfo.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.csproj.CoreCompileInputs.cache
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.MvcApplicationPartsAssemblyInfo.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.MvcApplicationPartsAssemblyInfo.cache
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorAssemblyInfo.cache
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorAssemblyInfo.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\staticwebassets\OAuth-2.StaticWebAssets.Manifest.cache
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\staticwebassets\OAuth-2.StaticWebAssets.xml
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\scopedcss\bundle\OAuth-2.styles.css
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.TagHelpers.input.cache
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.TagHelpers.output.cache
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorCoreGenerate.cache
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorTargetAssemblyInfo.cache
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.RazorTargetAssemblyInfo.cs
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.Views.pdb
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.csproj.CopyComplete
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.dll
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.pdb
+C:\Udemy\AZ-204\new2\Authentication\18. Making a call to Graph API - .Net core\OAuth-2\OAuth-2\obj\Debug\netcoreapp3.1\OAuth-2.genruntimeconfig.cache

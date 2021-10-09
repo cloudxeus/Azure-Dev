@@ -1,0 +1,44 @@
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.csprojAssemblyReference.cache
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.AssemblyInfoInputs.cache
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.AssemblyInfo.cs
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.csproj.CoreCompileInputs.cache
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.exe
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.deps.json
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.runtimeconfig.json
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.runtimeconfig.dev.json
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.dll
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.pdb
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Keys.dll
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.csproj.CopyComplete
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.dll
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.pdb
+C:\tmp\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.genruntimeconfig.cache
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.exe
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.deps.json
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.runtimeconfig.json
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.runtimeconfig.dev.json
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.pdb
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Keys.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.csprojAssemblyReference.cache
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.AssemblyInfoInputs.cache
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.AssemblyInfo.cs
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.csproj.CoreCompileInputs.cache
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.csproj.CopyComplete
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.pdb
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key Vault - Encryption Keys\Azurekeyvault-encryptionkeys\Azurekeyvault-encryptionkeys\obj\Debug\netcoreapp3.1\Azurekeyvault-encryptionkeys.genruntimeconfig.cache

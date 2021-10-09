@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/azure/app-service/app-service-authentication-how-to#access-user-claims

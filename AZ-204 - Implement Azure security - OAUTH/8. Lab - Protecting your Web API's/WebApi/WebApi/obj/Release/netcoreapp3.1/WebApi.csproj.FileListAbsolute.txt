@@ -1,0 +1,90 @@
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\appsettings.json
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.exe
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.deps.json
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.pdb
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\System.Memory.Data.dll
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.dll
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.pdb
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Identity.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.Identity.Web.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\tmp\WebApi\WebApi\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\appsettings.json
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.exe
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.deps.json
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\WebApi.pdb
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Identity.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.Identity.Web.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\System.Memory.Data.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.dll
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.pdb
+C:\Udemy\AZ-204\new2\Authentication\16. Protecting your API's - POSTMAN\WebApi\WebApi\obj\Release\netcoreapp3.1\WebApi.genruntimeconfig.cache

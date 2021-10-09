@@ -1,0 +1,36 @@
+C:\tmp\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.exe
+C:\tmp\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.deps.json
+C:\tmp\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.runtimeconfig.json
+C:\tmp\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.runtimeconfig.dev.json
+C:\tmp\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.dll
+C:\tmp\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.pdb
+C:\tmp\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\tmp\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.csprojAssemblyReference.cache
+C:\tmp\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.AssemblyInfoInputs.cache
+C:\tmp\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.AssemblyInfo.cs
+C:\tmp\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.csproj.CoreCompileInputs.cache
+C:\tmp\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.csproj.CopyComplete
+C:\tmp\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.dll
+C:\tmp\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.pdb
+C:\tmp\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.genruntimeconfig.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.exe
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.deps.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.runtimeconfig.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.runtimeconfig.dev.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\AzureStorageBlob.pdb
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.AssemblyInfoInputs.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.AssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.pdb
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Case - Managed Identities - Without use\AzureStorageBlob\AzureStorageBlob\obj\Debug\netcoreapp3.1\AzureStorageBlob.genruntimeconfig.cache

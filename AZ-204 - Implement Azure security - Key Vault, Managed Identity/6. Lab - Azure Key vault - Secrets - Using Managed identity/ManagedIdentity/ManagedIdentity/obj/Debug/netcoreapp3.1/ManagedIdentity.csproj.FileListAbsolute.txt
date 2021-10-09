@@ -1,0 +1,112 @@
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.exe
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.deps.json
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.runtimeconfig.json
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.runtimeconfig.dev.json
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.dll
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.pdb
+C:\tmp\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csprojAssemblyReference.cache
+C:\tmp\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.AssemblyInfoInputs.cache
+C:\tmp\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.AssemblyInfo.cs
+C:\tmp\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csproj.CoreCompileInputs.cache
+C:\tmp\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.dll
+C:\tmp\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.pdb
+C:\tmp\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.genruntimeconfig.cache
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.exe
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.deps.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.runtimeconfig.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.runtimeconfig.dev.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.pdb
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.AssemblyInfoInputs.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.AssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.pdb
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Blob storage - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.genruntimeconfig.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.AssemblyInfoInputs.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.AssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.pdb
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.exe
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.deps.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.runtimeconfig.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.runtimeconfig.dev.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.pdb
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Application Object\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.genruntimeconfig.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.exe
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.deps.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.runtimeconfig.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.runtimeconfig.dev.json
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.pdb
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.AssemblyInfoInputs.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.AssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.dll
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.pdb
+C:\Work\Udemy_2020\AZ-204\Implement Azure Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.genruntimeconfig.cache
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.exe
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.deps.json
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.runtimeconfig.json
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.runtimeconfig.dev.json
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\ManagedIdentity.pdb
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csprojAssemblyReference.cache
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.AssemblyInfoInputs.cache
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.AssemblyInfo.cs
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csproj.CoreCompileInputs.cache
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.csproj.CopyComplete
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.dll
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.pdb
+C:\Udemy\AZ-204\new\Security\Lab - Azure Key vault - Secrets - Using Managed identity\ManagedIdentity\ManagedIdentity\obj\Debug\netcoreapp3.1\ManagedIdentity.genruntimeconfig.cache
