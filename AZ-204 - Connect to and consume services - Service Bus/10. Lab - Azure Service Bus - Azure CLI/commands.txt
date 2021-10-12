@@ -1,0 +1,33 @@
+Azure Service Bus - Azure CLI
+
+You can use the following commands to work with the Azure Service Bus service
+
+// You can set the following variables for your script
+
+$namespace="appnamespace4450"
+
+$resourcegrp="new-grp"
+
+$location="Central US"
+
+$queuename="appqueue"
+
+$topicname="apptopic"
+
+$subscriptionName="SubscriptionA"
+
+// You can use the following command to create a service bus namespace
+
+az servicebus namespace create --name $namespace --resource-group $resourcegrp --location $location --sku Standard
+
+// You can use the following command to create a service bus queue
+
+az servicebus queue create --resource-group $resourcegrp --namespace-name $namespace --name $queuename --max-size 1024
+
+// You can use the following command to create a service bus topic
+
+az servicebus topic create --resource-group $resourcegrp --namespace-name $namespace --name $topicname --max-size 1024
+
+// You can use the following command to create a service bus subscription
+
+az servicebus topic subscription create --resource-group $resourcegrp --namespace-name $namespace --topic-name $topicname --name $subscriptionName
