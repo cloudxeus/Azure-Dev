@@ -1,0 +1,16 @@
+<policies>
+    <inbound>
+        <ip-filter action="forbid">
+            <address>92.98.44.62</address>
+        </ip-filter>
+    </inbound>
+    <backend>
+        <base />
+    </backend>
+    <outbound>
+        <base />
+    </outbound>
+    <on-error>
+        <base />
+    </on-error>
+</policies>

@@ -1,0 +1,27 @@
+[
+  {
+    "CourseID": "C0001",
+    "CourseName": "AZ-204 - Developing Azure Solutions",
+    "Rating": 4.5
+  },
+  {
+    "CourseID": "C0002",
+    "CourseName": "AZ-104 - Administering Azure Solutions",
+    "Rating": 4.6
+  },
+  {
+    "CourseID": "C0003",
+    "CourseName": "AZ-303 - Architecting Azure Solutions",
+    "Rating": 4.7
+  },
+  {
+    "CourseID": "C0004",
+    "CourseName": "DP-203 - Azure Data Engineer",
+    "Rating": 4.5
+  },
+  {
+    "CourseID": "C0005",
+    "CourseName": "AZ-900 - Azure Data Fundamentals",
+    "Rating": 4.6
+  }
+]
