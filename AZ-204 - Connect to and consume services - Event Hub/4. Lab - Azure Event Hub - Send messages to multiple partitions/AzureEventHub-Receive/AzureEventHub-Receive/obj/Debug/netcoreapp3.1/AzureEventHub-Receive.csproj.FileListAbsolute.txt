@@ -1,0 +1,38 @@
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.exe
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.deps.json
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.runtimeconfig.json
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.runtimeconfig.dev.json
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.dll
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.pdb
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.csprojAssemblyReference.cache
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.AssemblyInfoInputs.cache
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.AssemblyInfo.cs
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.csproj.CoreCompileInputs.cache
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.csproj.CopyComplete
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.dll
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.pdb
+C:\tmp\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.genruntimeconfig.cache
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.exe
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.deps.json
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.runtimeconfig.json
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.runtimeconfig.dev.json
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\AzureEventHub-Receive.pdb
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.AssemblyInfoInputs.cache
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.AssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.dll
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.pdb
+C:\Work\Udemy_2020\AZ-204\Connect to and consume Azure and third-party services\Azure Event Hubs\7. Using multiple partitions\AzureEventHub-Receive\AzureEventHub-Receive\obj\Debug\netcoreapp3.1\AzureEventHub-Receive.genruntimeconfig.cache
