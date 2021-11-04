@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Udemy_2020\\AZ-204\\Develop for Azure storage\\Azure Cosmos DB\\Lab - Azure Cosmos DB - .Net - Create database and container\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj": {}
+    "C:\\tmp2\\2. Lab - Azure Cosmos DB - .Net - Create database and container\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Udemy_2020\\AZ-204\\Develop for Azure storage\\Azure Cosmos DB\\Lab - Azure Cosmos DB - .Net - Create database and container\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj": {
+    "C:\\tmp2\\2. Lab - Azure Cosmos DB - .Net - Create database and container\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Udemy_2020\\AZ-204\\Develop for Azure storage\\Azure Cosmos DB\\Lab - Azure Cosmos DB - .Net - Create database and container\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj",
+        "projectUniqueName": "C:\\tmp2\\2. Lab - Azure Cosmos DB - .Net - Create database and container\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj",
         "projectName": "AzureCosmosDB",
-        "projectPath": "C:\\Work\\Udemy_2020\\AZ-204\\Develop for Azure storage\\Azure Cosmos DB\\Lab - Azure Cosmos DB - .Net - Create database and container\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj",
+        "projectPath": "C:\\tmp2\\2. Lab - Azure Cosmos DB - .Net - Create database and container\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj",
         "packagesPath": "C:\\Users\\Allan\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Udemy_2020\\AZ-204\\Develop for Azure storage\\Azure Cosmos DB\\Lab - Azure Cosmos DB - .Net - Create database and container\\AzureCosmosDB\\AzureCosmosDB\\obj\\",
+        "outputPath": "C:\\tmp2\\2. Lab - Azure Cosmos DB - .Net - Create database and container\\AzureCosmosDB\\AzureCosmosDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -48,7 +48,7 @@
           "dependencies": {
             "Microsoft.Azure.Cosmos": {
               "target": "Package",
-              "version": "[3.17.1, )"
+              "version": "[3.22.1, )"
             }
           },
           "imports": [
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
         }
       }
     }

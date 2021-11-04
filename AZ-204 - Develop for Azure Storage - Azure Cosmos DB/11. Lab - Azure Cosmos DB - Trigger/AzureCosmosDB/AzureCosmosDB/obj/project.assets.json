@@ -5812,11 +5812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\tmp\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj",
+      "projectUniqueName": "C:\\tmp2\\11. Lab - Azure Cosmos DB - Trigger\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj",
       "projectName": "AzureCosmosDB",
-      "projectPath": "C:\\tmp\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj",
+      "projectPath": "C:\\tmp2\\11. Lab - Azure Cosmos DB - Trigger\\AzureCosmosDB\\AzureCosmosDB\\AzureCosmosDB.csproj",
       "packagesPath": "C:\\Users\\Allan\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\AzureCosmosDB\\AzureCosmosDB\\obj\\",
+      "outputPath": "C:\\tmp2\\11. Lab - Azure Cosmos DB - Trigger\\AzureCosmosDB\\AzureCosmosDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5871,7 +5871,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
       }
     }
   }

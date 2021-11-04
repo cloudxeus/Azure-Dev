@@ -8,11 +8,11 @@ namespace AzureCosmosDB
     class Program
     {
         
-        private static readonly string _connection_string = "AccountEndpoint=https://demoaccount1000.documents.azure.com:443/;AccountKey=bXV8G72jYdI4HDwalifWkRuVRUsV45rtTEX0iwIsstaQu8kR7RhKDp5ibD1o8VX4UYCQARLwAfFqi5gPYnvPDg==;";
+        private static readonly string _connection_string = "AccountEndpoint=https://appaccount20030.documents.azure.com:443/;AccountKey=ZCFP0FkFCsrBQZdjXDVUPcUcg2MysLj0Mb1Hh1N8RrFDlFI118YrMdip5M9ZlZQFJR2DtGArO0D7mLeR0dBJkg==;";
         private static readonly string _database_name = "appdb";
         private static readonly string _container_name = "course";
         
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             CosmosClient _cosmosclient = new CosmosClient(_connection_string, new CosmosClientOptions());
 
@@ -21,7 +21,7 @@ namespace AzureCosmosDB
 
             Course _course = new Course() { id = "Course0010", coursename = "AZ-204 Developing Azure solutions", rating = 4.5m };
 
-            _container.CreateItemAsync(_course, null,new ItemRequestOptions { PreTriggers = new List<string> { "AddTimestamp" } }).GetAwaiter().GetResult();
+            await _container.CreateItemAsync(_course, null,new ItemRequestOptions { PreTriggers = new List<string> { "AddTimestamp" } });
 
             Console.WriteLine("Item created");
             Console.ReadKey();
