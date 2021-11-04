@@ -15,7 +15,7 @@ namespace CosmosDB
         private static readonly string _database_name = "appdb";
         private static readonly string _container_name = "activity";
         
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
 
             FileStream _fs = new FileStream(System.Environment.CurrentDirectory +  @"\data\QueryResult.json", FileMode.Open, FileAccess.Read);
@@ -32,7 +32,7 @@ namespace CosmosDB
                     JObject _object = JObject.Load(_json_reader);
                     Activity _activity = _object.ToObject<Activity>();
                     _activity.id = Guid.NewGuid().ToString();
-                    _container.CreateItemAsync<Activity>(_activity, new PartitionKey(_activity.Operationname)).GetAwaiter().GetResult();
+                    await _container.CreateItemAsync<Activity>(_activity, new PartitionKey(_activity.Operationname));
                     Console.WriteLine($"Adding item {_activity.Correlationid}");
                 }
             }
